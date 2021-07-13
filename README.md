@@ -1,3 +1,10 @@
+### Hi there 👋 I am Boyfie
+
+- 🔭 I’m currently working on learning full discord.js
+- 🌱 I develop cool bots for discord
+- 👯 I'm currently developing a music bot
+- ⚡ Fun fact: I am a noob gamer xD
+
 <br/>
 <a href="https://discord.com/users/548192290003353631">
  <img align="left" alt="!  BOYFRIEND 🍁#8831 Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
