@@ -1,9 +1,12 @@
-### Hi there 👋 I am Boyfie
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Boyfie</h1>
+<h3 align="center"> </h3>
 
-- 🔭 I’m currently working on learning full discord.js
-- 🌱 I develop cool bots for discord
-- 👯 I'm currently developing a music bot
-- ⚡ Fun fact: I am a noob gamer xD
+<img align="center" alt="Code_Gif" src="code.gif?raw=true" width="400" height="300" />
+
+- 🔭 **I’m currently working on learning full discord.js**
+- 🌱 **I develop cool bots for discord**
+- 👯 **I'm currently developing a music bot**
+- ⚡ **Fun fact: I am a noob gamer xD**
 
 <br/>
 <a href="https://discord.com/users/548192290003353631">
